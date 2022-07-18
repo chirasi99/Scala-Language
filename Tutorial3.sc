@@ -27,7 +27,7 @@ tempFahren(35)
 //------------------------------------Question 03--------------------------------------------------
 //  The volume of a sphere with radius r is 4/3 Pi r3. What is the volume of a sphere with radius 5?
 
-def volume(R:Int) : Double = 4/3 * math.Pi * R * R * R
+def volume(R:Int) : Double = (4 * math.Pi * r * r * r)/3
 volume(5)
 
 
